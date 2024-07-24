@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "csstools.postcss",
+    "blanu.vscode-styled-jsx",
+    "vitest.explorer",
+    "tombonnike.vscode-status-bar-format-toggle"
+  ]
+}
